@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ECommerceSearch_EX3/1.0.0": {
+        "runtime": {
+          "ECommerceSearch_EX3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ECommerceSearch_EX3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
