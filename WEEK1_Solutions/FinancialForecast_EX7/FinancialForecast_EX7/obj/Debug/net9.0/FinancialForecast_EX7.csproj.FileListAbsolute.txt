@@ -1,0 +1,15 @@
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\bin\Debug\net9.0\FinancialForecast_EX7.exe
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\bin\Debug\net9.0\FinancialForecast_EX7.deps.json
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\bin\Debug\net9.0\FinancialForecast_EX7.runtimeconfig.json
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\bin\Debug\net9.0\FinancialForecast_EX7.dll
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\bin\Debug\net9.0\FinancialForecast_EX7.pdb
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\obj\Debug\net9.0\FinancialForecast_EX7.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\obj\Debug\net9.0\FinancialForecast_EX7.AssemblyInfoInputs.cache
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\obj\Debug\net9.0\FinancialForecast_EX7.AssemblyInfo.cs
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\obj\Debug\net9.0\FinancialForecast_EX7.csproj.CoreCompileInputs.cache
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\obj\Debug\net9.0\FinancialForecast_EX7.sourcelink.json
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\obj\Debug\net9.0\FinancialForecast_EX7.dll
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\obj\Debug\net9.0\refint\FinancialForecast_EX7.dll
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\obj\Debug\net9.0\FinancialForecast_EX7.pdb
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\obj\Debug\net9.0\FinancialForecast_EX7.genruntimeconfig.cache
+c:\Users\KIIT\Cognizant-learning-program-solutions\WEEK1_Solutions\FinancialForecast_EX7\FinancialForecast_EX7\obj\Debug\net9.0\ref\FinancialForecast_EX7.dll
